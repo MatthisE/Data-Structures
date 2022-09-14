@@ -1,7 +1,5 @@
 package Lists;
 
-//import java.util.List;
-
 public class SinglyLinkedList<E>{
     private SinglyLinkedNode<E> head = null;
 
