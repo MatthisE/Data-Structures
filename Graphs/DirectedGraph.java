@@ -39,7 +39,7 @@ public class DirectedGraph{
         return false;
     }
 
-    //Death First Search:
+    //Depth First Search:
 
     Set<Integer> visited;
 
