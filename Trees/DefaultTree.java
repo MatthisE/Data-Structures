@@ -41,7 +41,7 @@ public class DefaultTree<E> implements Tree<E>{
     }
 
     public int size(){
-    // the size of this thee is the sum of the sizes
+    // the size of this tree is the sum of the sizes
     // of the children plus 1
         int sum = 0;
         for (DefaultTree<E> child : children){
